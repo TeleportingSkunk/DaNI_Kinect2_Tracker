@@ -5,3 +5,6 @@ https://homes.cs.washington.edu/~edzhang/tutorials/kinect2/kinect1.html
 https://gist.github.com/UnaNancyOwen/bff6c3342839592cd51e
 
 https://github.com/UnaNancyOwen/Kinect2Sample/blob/master/sample/Body/app.cpp
+
+https://msdn.microsoft.com/en-us/library/dn758675.aspx	
+
