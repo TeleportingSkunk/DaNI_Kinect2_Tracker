@@ -8,3 +8,5 @@ https://github.com/UnaNancyOwen/Kinect2Sample/blob/master/sample/Body/app.cpp
 
 https://msdn.microsoft.com/en-us/library/dn758675.aspx	
 
+https://pterneas.com/2014/03/13/kinect-for-windows-version-2-body-tracking/
+
