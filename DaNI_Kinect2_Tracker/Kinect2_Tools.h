@@ -66,7 +66,7 @@ private:
 
 	inline void drawEllipse(cv::Mat &image, const Joint &joint, const int radius, const cv::Vec3b &color, const int thickness = -1);
 
-	inline void drawHandState(cv::Mat &image, const Joint &joint, HandState handstate, TrackingConfidence handconfidence);
+	inline void drawHandState(cv::Mat &image, const Joint &joint, HandState handState, TrackingConfidence handConfidence);
 
 	void show();
 
