@@ -72,4 +72,5 @@ private:
 
 	inline void showBody();
 
+	void dump();
 };
